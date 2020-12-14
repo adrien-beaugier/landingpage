@@ -1,0 +1,78 @@
+
+
+body{margin: 0px;
+
+
+}	
+
+.banner {
+color:white;
+background-image: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(images/cerisier.jpg);
+background-position:center;
+background-size:cover;
+padding: 250px 0px;
+margin: 0px
+
+}
+
+.banner h2{font-size: 38PX;
+margin-bottom: 55px}
+
+
+.button-a{background-color: #F0B27A ;
+padding: 14px 21px;
+border-radius: 5px ;
+color: white;	
+font-weight: bold;
+text-decoration-line: none;
+}
+
+
+.page-header a{font-size: 22PX;
+	color: black;
+	font-weight: bold;
+	font-family: ROBOTO
+
+
+}
+
+
+
+.button-b{text-decoration: none;
+
+
+}
+
+.container{font-family: ROBOTO;
+text-align: center;
+color: white
+}
+
+header.page-header {
+    background-color: white	;
+    display: flex;
+    height: 80px;
+    min-width: 120px;
+    align-items: center;
+    color: black;
+   justify-content: space-around;
+   padding-left: 900px;
+   font-size : 10px;
+
+
+}
+
+.page-header{background-image: url(images/logo.png);
+background-position:left;
+background-repeat: no-repeat;
+background-size: 300px;
+}
+
+
+footer {
+        padding: 10px 20px;
+        background: #666;
+        color: white;
+        text-align: center;
+      }
+
